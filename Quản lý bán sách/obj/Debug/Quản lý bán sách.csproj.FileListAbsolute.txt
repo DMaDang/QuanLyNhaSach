@@ -1,0 +1,153 @@
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.AssemblyReference.cache
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.SuggestedBindingRedirects.cache
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.Properties.Resources.resources
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangNhap.resources
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.GenerateResource.cache
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.CoreCompileInputs.cache
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe.config
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.pdb
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.exe
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.pdb
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fquanly.resources
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangKy.resources
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDoiMatKhau.resources
+C:\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fMain.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1.mdf
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1_log.ldf
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe.config
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.pdb
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.AssemblyReference.cache
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.SuggestedBindingRedirects.cache
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fMain.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.Properties.Resources.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fQuenMatKhau.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fquanly.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangKy.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangNhap.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDoiMatKhau.resources
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.GenerateResource.cache
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.CoreCompileInputs.cache
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.exe
+C:\onedrive\Máy tính\working\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.pdb
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1.mdf
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1_log.ldf
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe.config
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.pdb
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.AssemblyReference.cache
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.SuggestedBindingRedirects.cache
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fMain.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.Properties.Resources.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fQuenMatKhau.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fquanly.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangKy.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangNhap.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDoiMatKhau.resources
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.GenerateResource.cache
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.CoreCompileInputs.cache
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.exe
+C:\mom\c#_winform\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.pdb
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1.mdf
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1_log.ldf
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe.config
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.pdb
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.AssemblyReference.cache
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.SuggestedBindingRedirects.cache
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fMain.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.Properties.Resources.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fQuenMatKhau.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fquanly.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangKy.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangNhap.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDoiMatKhau.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.GenerateResource.cache
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.CoreCompileInputs.cache
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.exe
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.pdb
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDanhSachQuanLy.resources
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database2.mdf
+C:\Users\84378\Downloads\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database2_log.ldf
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1.mdf
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database1_log.ldf
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database2.mdf
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Database2_log.ldf
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe.config
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.exe
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Quản lý bán sách.pdb
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.AssemblyReference.cache
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.SuggestedBindingRedirects.cache
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDanhSachQuanLy.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fMain.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.Properties.Resources.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fQuenMatKhau.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fquanly.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangKy.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDangNhap.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.fDoiMatKhau.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.GenerateResource.cache
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.CoreCompileInputs.cache
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.exe
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.pdb
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản lý bán sách.csproj.CopyComplete
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\EnvDTE.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\stdole.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\obj\Debug\Quản_lý_bán_sách.rpHD.resources
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\EntityFramework.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\EntityFramework.xml
+C:\Users\84378\Downloads\CNPM\CNPM\Quản lý bán sách\Quản lý bán sách\bin\Debug\EntityFramework.SqlServer.xml
